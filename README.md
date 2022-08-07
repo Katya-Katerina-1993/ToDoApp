@@ -1,2 +1,2 @@
 # ToDoApp
-This is a to-do list app for keeping to-do lists in local storage.
+This is a to-do list app for writing to-do lists and keeping it in local storage.
